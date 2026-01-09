@@ -21,7 +21,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Sudeep\\Gallery\\GalleryServiceProvider"
+        "Sudeep\\Gallery\\Http\\Providers\\GalleryServiceProvider"
       ]
     }
   }

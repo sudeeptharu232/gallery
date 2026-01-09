@@ -8,10 +8,10 @@ use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;
 use Intervention\Image\Drivers\Gd\Driver;
 use Intervention\Image\ImageManager as Img;
-use PrabidheeInnovations\Gallery\Http\Requests\GalleryStoreRequest;
-use PrabidheeInnovations\Gallery\Http\Requests\GalleryUpdateRequest;
-use PrabidheeInnovations\Gallery\Models\Gallery;
-use PrabidheeInnovations\Gallery\Models\Image;
+use Sudeep\Gallery\Http\Requests\GalleryStoreRequest;
+use Sudeep\Gallery\Http\Requests\GalleryUpdateRequest;
+use Sudeep\Gallery\Models\Gallery;
+use Sudeep\Gallery\Models\Image;
 
 class GalleryController extends Controller
 {
