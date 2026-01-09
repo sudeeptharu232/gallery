@@ -1,6 +1,6 @@
 <?php
 use Illuminate\Support\Facades\Route;
-use PrabidheeInnovations\Gallery\Http\Controllers\GalleryController;
+use Sudeep\Gallery\Http\Controllers\GalleryController;
 
 Route::group(["prefix" => "dashboard"], function (){
     //galleries
