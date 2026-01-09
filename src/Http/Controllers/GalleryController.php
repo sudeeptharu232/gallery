@@ -1,6 +1,6 @@
 <?php
 
-namespace PrabidheeInnovations\Gallery\Http\Controllers;
+namespace  Sudeep\Gallery\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

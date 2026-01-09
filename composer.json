@@ -24,11 +24,5 @@
         "Sudeep\\Gallery\\GalleryServiceProvider"
       ]
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/sudeeptharu232/gallery.git"
-    }
-  ]
+  }
 }

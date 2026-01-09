@@ -1,6 +1,6 @@
 <?php
 
-namespace PrabidheeInnovations\Gallery\Http\Requests;
+namespace Sudeep\Gallery\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

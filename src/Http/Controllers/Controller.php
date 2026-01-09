@@ -1,6 +1,6 @@
 <?php
 
-namespace PrabidheeInnovations\Gallery\Http\Controllers;
+namespace Sudeep\Gallery\Http\Controllers;
 
 abstract class Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace PrabidheeInnovations\Gallery\Http\Providers;
+namespace Sudeep\Gallery\Http\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
