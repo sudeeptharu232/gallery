@@ -1,0 +1,28 @@
+{
+    "name": "prabidheeinnovations/gallery",
+    "description": "A package for making Menu for  Newsportals made By Prabidhee Innovations",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PrabidheeInnovations\\Gallery\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers" : [
+                "PrabidheeInnovations\\Gallery\\Http\\Providers\\GalleryServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Prabidhee Innovations",
+            "email": "info@prabidhee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "prabidheeinnovations/theme": "dev-master"
+    }
+}
